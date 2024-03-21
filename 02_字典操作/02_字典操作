@@ -1,0 +1,9 @@
+#1, 字典合并
+dic1 = {'a': 1, 'b': 2}
+dic2 = {'b': 3, 'c': 4}
+# 方法1
+merged_dict = {**dic1, **dic2}
+# 方法2
+dic1.update(dic2)
+#2, 字典删除
+dic1.pop('a')

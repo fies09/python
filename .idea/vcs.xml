@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_数据库操作/py_mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/19_public_code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools" vcs="Git" />
+  </component>
+</project>
