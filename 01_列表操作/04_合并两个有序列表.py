@@ -35,3 +35,7 @@ def loop_merge_sort(l1, l2):
     tmp.append(l1)
     tmp.append(l2)
     return tmp
+if __name__ == '__main__':
+    l1 = [1, 3, 5, 7, 9]
+    l2 = [2, 4, 6, 8, 10]
+    loop_merge_sort(l1, l2)
