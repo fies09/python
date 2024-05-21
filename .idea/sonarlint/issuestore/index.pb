@@ -33,3 +33,13 @@ R
 "09_文件处理/03_文件处理.py,b\c\bc4acd17bd83c705d44d93544b167cadd2486984
 E
 09_文件处理/a.txt,3\0\3028acf17a9c45537bd173d1b991ce9996356ca3
+O
+10_python/python魔法方法.py,4\d\4d4c5ee85bb032feecddcc0a10db2bc299926312
+Y
+)10_python/base02/python结构化编程.py,5\6\561c2a3310a62d7b59eb98fb82e2758a81ddeb8c
+\
+,10_python/base02/python面向对象编程.py,1\7\1756a71751768ca7551315b8f6f821df05931fbb
+Y
+)10_python/base02/python函数式编程.py,b\2\b2ad0cecaafe19134e373546dc84ce490a28f533
+\
+,10_python/base02/python事件驱动编程.py,8\e\8e1f2bf1ac1c18ffcdec8a69262c5d017efff682
